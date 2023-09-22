@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript / TypeScript / React / Next**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nicat827?tab=repositories](https://github.com/nicat827?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/nicat827?tab=repositories)
 
 - 💬 Ask me about **react**
 
