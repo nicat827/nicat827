@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicat Macidov</h1>
-<h3 align="center">Frontend developer from Azerbaijan</h3>
+<h3 align="center">Backend developer from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicat827&label=Profile%20views&color=0e75b6&style=flat" alt="nicat827" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/nicat827?tab=repositories)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **c#**
 
 - 📫 How to reach me **nici.mecidov@list.ru**
 
