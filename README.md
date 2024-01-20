@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nicat827?tab=repositories](https://github.com/nicat827?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/nicat827?tab=repositories)
 
 - 📫 How to reach me **nicatmajidov@gmail.com**
 
-- 📄 My CV [https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/nijat-majidov/366b074c-b599-4aee-93df-92229c4ff8ba?view=html](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/nijat-majidov/366b074c-b599-4aee-93df-92229c4ff8ba?view=html)
+- 📄 My [CV](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/nijat-majidov/366b074c-b599-4aee-93df-92229c4ff8ba?view=html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
