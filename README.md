@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nijat Majidov</h1>
 <h3 align="center">ASP.NET Backend developer from Azerbaijan</h3>
-<div>
+<div style="display:flex">
   
   - 🔭 I’m currently working on **MVC Projects**
   
