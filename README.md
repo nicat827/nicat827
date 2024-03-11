@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nijat Majidov</h1>
 <h3 align="center">ASP.NET Backend developer from Azerbaijan</h3>
 <div>
-  <div>
+  
   - 🔭 I’m currently working on **MVC Projects**
   
   - 🌱 I’m currently learning **Java**
@@ -10,9 +10,9 @@
   
   - 📫 How to reach me **nicatmajidov@gmail.com**
   
-- 📄 My [CV](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/nijat-majidov/366b074c-b599-4aee-93df-92229c4ff8ba?view=html)
-  </div>
-  <img style="width:300px;height:300px;border-radius:8px;"     
+  - 📄 My [CV](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/nijat-majidov/366b074c-b599-4aee-93df-92229c4ff8ba?view=html)
+    
+  <img style="width:300px;height:300px;border-radius:8px; "     
       src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ2MzdzNm9nZ2Z1cXZqMzd0emkwZDZnenA2dXNic21iMDdxM3Q4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"/>
 </div>
 <h3 align="left">Connect with me:</h3>
