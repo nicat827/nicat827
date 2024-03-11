@@ -11,7 +11,7 @@
 
 - 📄 My [CV](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/nijat-majidov/366b074c-b599-4aee-93df-92229c4ff8ba?view=html)
 <div style="display:flex;flex-direction:column;">
-  <img style="width:220px;height:220px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ2MzdzNm9nZ2Z1cXZqMzd0emkwZDZnenA2dXNic21iMDdxM3Q4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"/>
+  <img style="width:300px;height:300px;border-radius:8px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ2MzdzNm9nZ2Z1cXZqMzd0emkwZDZnenA2dXNic21iMDdxM3Q4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"/>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://www.linkedin.com/in/nicat-majidov-029bb02ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicat-macidov-a287292a9/" height="30" width="40" /></a>
