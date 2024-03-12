@@ -12,16 +12,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=nicat827&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
  
 <a>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ2MzdzNm9nZ2Z1cXZqMzd0emkwZDZnenA2dXNic21iMDdxM3Q4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="" align="right" width="350" height="250"/>
