@@ -130,8 +130,8 @@
  
 <table width='100%'> 
     <tr>
-         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-            <img src="https://miro.medium.com/v2/resize:fit:1400/1*_NVBTVdmjt3Qvq3CZOySXg.png" alt="C#" width="48" height="48" min-width="44" /> 
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" min-width="44" /> 
         </a>
         <a href="https://learn.microsoft.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET core" width="48" height="48" min-width="44" />
