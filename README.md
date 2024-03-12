@@ -9,7 +9,7 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RehimMammadov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nicat827&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 <br>
 <br>
