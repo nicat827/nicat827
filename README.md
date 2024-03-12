@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm Rahim Mammadov.</h1>
+<h1 align="left">Hi 👋, I'm Nijat Majidov</h1>
 
 <br>
 
-<h2 align="left">A passionate backend developer from Azerbaijan</h2>
+<h2 align="left">A passionate c# developer from Azerbaijan</h2>
 <br>
 <div>
 
@@ -15,7 +15,7 @@
 <br>
  
 <a>
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" style="margin-bottom: 20px;max-width: 100%;display: inline-block;" alt="" align="right" width="350" height="250"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ2MzdzNm9nZ2Z1cXZqMzd0emkwZDZnenA2dXNic21iMDdxM3Q4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" style="margin-bottom: 20px;max-width: 100%;display: inline-block;" alt="" align="right" width="350" height="250"/>
 </a>
 <br>
 <br>
@@ -135,10 +135,10 @@
 <table width='100%'> 
     <tr>
          <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-            <img src="https://miro.medium.com/v2/resize:fit:1400/1*_NVBTVdmjt3Qvq3CZOySXg.png" alt="socket" width="48" height="48" min-width="44" /> 
+            <img src="https://miro.medium.com/v2/resize:fit:1400/1*_NVBTVdmjt3Qvq3CZOySXg.png" alt="C#" width="48" height="48" min-width="44" /> 
         </a>
         <a href="https://learn.microsoft.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET core" width="48" height="48" min-width="44" />
         </a>
         <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
             <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="48" height="48" min-width="44" /> 
