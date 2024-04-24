@@ -2,7 +2,7 @@
 
 <br>
 
-<h2 align="left">A passionate c# developer from Azerbaijan</h2>
+<h2 align="left"> C# and React developer from Azerbaijan</h2>
 <br>
 <div>
 
