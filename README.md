@@ -20,9 +20,9 @@
 <br>
 
 
-  - 🔭 I’m currently working on **API Projects**
+
   
-  - 🌱 I’m currently learning **Java**
+  - 🌱 I’m currently working in Aseto Group
   
   - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/nicat827?tab=repositories)
   
