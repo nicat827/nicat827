@@ -28,7 +28,7 @@
   
   - 📫 How to reach me **nicatmajidov@gmail.com**
   
-  - 📄 My [CV](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/nijat-majidov/366b074c-b599-4aee-93df-92229c4ff8ba?view=html)
+  - 📄 My [CV]([https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/nijat-majidov/366b074c-b599-4aee-93df-92229c4ff8ba?view=html](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/nijat-majidov/6b40436c-1ebe-4179-ba81-f06981a9d535?view=html))
 
   <br>
   <br>
